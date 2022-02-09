@@ -8,7 +8,7 @@ Technology used - Java, Appium, Cucumber, Maven, Android
 - Clone the repo `https://github.com/shiveshdewangan/energy-australia-mobile-test-appium.git`
 - Import the project as maven project on IntelliJ
 - Install all maven dependencies on pom.xml file
-- Go to **energy-australia-mobile-test-appium/src/test/java/TestRunner***
+- Go to **energy-australia-mobile-test-appium/src/test/java/TestRunner**
 - Locate **Runner.java** file within **TestRunner** folder
 - Right click on the **Runner.java** file and Run it
 

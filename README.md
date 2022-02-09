@@ -18,7 +18,7 @@ Technology used - Java, Appium, Cucumber, Maven, Android
 
 - `Open a Terminal window`
 - `git clone https://github.com/shiveshdewangan/energy-australia-mobile-test-appium.git`
-- `cd mobile-app-automation`
+- `cd energy-australia-mobile-test-appium/`
 - `mvn clean test`
 
 ##### Note: After test execution, please look inside `**target/cucumber-reports/index.html**` for Cucumber HTML Reports.

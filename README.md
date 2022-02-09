@@ -2,7 +2,7 @@
 
 Technology used - Java, Appium, Cucumber, Maven, Android
 
-### Appium server should be up and running.
+### Appium server and Android emulator should be up and running.
 
 **Running locally using editors like IntelliJ Idea**
 - Clone the repo `https://github.com/shiveshdewangan/energy-australia-mobile-test-appium.git`
